@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Course navigator progress
+data/
+
+# Local AWS credentials for optional live labs
+*.pem
